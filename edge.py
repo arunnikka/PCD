@@ -1,5 +1,4 @@
-# Yulinda Fitri
-# TI23E
+
 
 import imageio.v2 as img 
 import numpy as np
